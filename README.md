@@ -1,4 +1,4 @@
-# Uni---DB
+# Uni-DB
 Uni-DB is a government document retrieval and management system developed using Python, MySQL database, OpenCV2 library, and Tkinter. The project aims to provide a secure and efficient way for users to fetch and manage their government documents by utilizing their Aadhar card number and fingerprints.
 
 **Technologies Used**
